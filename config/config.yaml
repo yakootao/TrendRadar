@@ -84,3 +84,5 @@ platforms:
     name: "抖音"
   - id: "zhihu"
     name: "知乎"
+    name:"网易"
+  - id:"news.163"  
